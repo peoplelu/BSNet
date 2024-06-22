@@ -1,0 +1,11 @@
+# ninja log v5
+0	13865	1695632198142070522	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops.o	c73d7d33ced62400
+0	17013	1695632201290264412	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops_api.o	f730ab0d3e11ef8b
+0	18532	1695632202826358552	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	ac1ba2495ad84943
+18	13743	1695632406584449868	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops.o	151dc0691a4bcbc2
+18	17448	1695632410296595217	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops_api.o	412ecc2a9e56a3f5
+18	21754	1695632414624763174	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	ac5531305a441238
+31	13920	1703075984389216295	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops.o	36c03e5aaf5f99f
+31	19488	1703075989957416588	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops_api.o	289eda92111de18b
+31	21231	1703075991713479385	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	676c33daf25f9d9f
+22	22270	1703076579011594176	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	b671bad89c8ab2e5

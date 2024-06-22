@@ -1,0 +1,5 @@
+setup.py
+spformer.egg-info/PKG-INFO
+spformer.egg-info/SOURCES.txt
+spformer.egg-info/dependency_links.txt
+spformer.egg-info/top_level.txt

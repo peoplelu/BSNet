@@ -1,0 +1,4 @@
+# ninja log v5
+1	14355	1703075678514869131	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-39/pointgroup_ops/src/pointgroup_ops.o	9792d56724319e65
+1	18952	1703075683115144301	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-39/pointgroup_ops/src/pointgroup_ops_api.o	28992ea15560181c
+0	21051	1703075685227269901	/ssd/ljh/3d_ins/GaPro/SPFormer/spformer/lib/build/temp.linux-x86_64-cpython-39/pointgroup_ops/src/cuda.o	61aab86eefb9b681

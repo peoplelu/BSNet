@@ -1,0 +1,6 @@
+README.md
+setup.py
+maft.egg-info/PKG-INFO
+maft.egg-info/SOURCES.txt
+maft.egg-info/dependency_links.txt
+maft.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: spformer
+Version: 1.0
+Summary: Superpoint Transformer for 3D Scene Instance Segmentation [AAAI 2023]
+Author: Sun Jiahao
+Author-email: eesjh@mail.scut.edu.cn

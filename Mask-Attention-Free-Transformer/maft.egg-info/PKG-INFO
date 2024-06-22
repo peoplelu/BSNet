@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: maft
+Version: 1.0
+Summary: official code for 'Mask-Attention-Free Transformer for 3D Instance Segmentation'(ICCV 2023)
+Author: Xin Lai
+Author-email: xinlai@cse.cuhk.edu.hk
