@@ -24,8 +24,8 @@ The following installation suppose `python=3.8` `pytorch=1.10` and `cuda=11.4`.
 - Create a conda virtual environment
 
   ```
-  conda create -n MMImp python=3.8
-  conda activate MMImp
+  conda create -n BSNet python=3.8
+  conda activate BSNet
   ```
 
 - Install the dependencies
